@@ -19,4 +19,7 @@ If you are running OSX 10.11 or higher, SIP must be disabled. To disable SIP do 
   - Close SwitchResX and save when prompted.
   - Restart your Mac.
   
+  ![config](SwitchResX Settings.png)
+  
+  
   After following these steps, you should be able to adjust the resolution of your external monitor through the 'Display'    window in System Preferences. 
